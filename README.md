@@ -54,6 +54,8 @@ Skills:
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
   <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
 </a>
+	  
+&emsp;
 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
@@ -121,19 +123,19 @@ Skills:
 &emsp;
  &emsp;
 <a href="#"> 
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" width="70"> 
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" > 
 </a>
 &emsp;
 <a href="#"> 
-  <img src="https://img.shields.io/badge/Entity_Framework-2E8B57?style=for-the-badge&logo=entity-framework&logoColor=white" width="70"> 
+  <img src="https://img.shields.io/badge/Entity_Framework-2E8B57?style=for-the-badge&logo=entity-framework&logoColor=white"> 
 </a>
 &emsp;
 <a href="#"> 
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" width="70"> 
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" > 
 </a>
 &emsp;
 <a href="#"> 
-  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" width="70"> 
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"> 
 </a>
 <br/>
 &emsp;
@@ -142,7 +144,7 @@ Skills:
 </a>
 &emsp;
 <a href="#"> 
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" width="70"> 
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> 
 </a>
 
 </p>
