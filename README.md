@@ -119,30 +119,32 @@ Skills:
 
 <p align="center">
 &emsp;
- <a href="#"> 
+ &emsp;
+<a href="#"> 
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" width="70"> 
 </a>
-  &emsp;
+&emsp;
 <a href="#"> 
   <img src="https://img.shields.io/badge/Entity_Framework-2E8B57?style=for-the-badge&logo=entity-framework&logoColor=white" width="70"> 
 </a>
-  &emsp;
+&emsp;
 <a href="#"> 
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" width="70"> 
 </a>
-  &emsp;
+&emsp;
 <a href="#"> 
   <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" width="70"> 
 </a>
-  &emsp;
 <br/>
+&emsp;
 <a href="#"> 
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="70"> 
 </a>
-  &emsp;
+&emsp;
 <a href="#"> 
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" width="70"> 
 </a>
+
 </p>
 
 
